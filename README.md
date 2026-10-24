@@ -217,4 +217,4 @@ MicroVolts is available as a full free version, with all features and updates in
 Ready to join the fun? Download MicroVolts today and experience the thrill of battle with your favorite toys!
 
 ---
-**Last updated:** 2026-10-24 17:58:00 UTC
+**Last updated:** 2026-10-24 20:38:03 UTC
